@@ -12,6 +12,8 @@ goals
 3. modify existing files
 4. create new branch `git checkout -b add/file`
 5. add new file to staging `git add .` or `git add nama_file nama_file2`
-5. commit to new branch
+5. commit to new branch `git commit -M "add readme file"`
+6. see logs : `git log -n2`
+7. git stash, git stash pop
 6. push new branch to remote
 7. merge new branch to main
